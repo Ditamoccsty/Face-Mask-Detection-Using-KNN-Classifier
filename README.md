@@ -1,1 +1,1 @@
-# Face-Mask-Detection-Using-KNN-Classifier
+# Face-Mask-Detection-KNN-Classifier
